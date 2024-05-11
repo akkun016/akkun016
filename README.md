@@ -20,5 +20,8 @@ Here are some ideas to get you started:
     <img src="https://komarev.com/ghpvc/?username=yutkat" alt="yutkat" />
   </a>
 </p>
+<p>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkun016)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akkun016&hide=contribs,prs)
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
